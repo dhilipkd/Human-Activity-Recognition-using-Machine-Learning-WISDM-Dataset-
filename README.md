@@ -147,7 +147,7 @@ Displays:
 
 Prediction Output:
 
-  Predicted Activity Name
+  Predicted Activity Name 
     - Walking
     - Jogging
     - Sitting
