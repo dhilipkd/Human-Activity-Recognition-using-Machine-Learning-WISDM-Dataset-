@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-using-Machine-Learning-WISDM-Dataset
+# Human Activity Recognition using Machine Learning (WISDM Dataset)
 This project implements an **end-to-end Human Activity Recognition (HAR)** system using Machine Learning on accelerometer sensor data from the **WISDM dataset**.   The trained model is deployed using **Streamlit** to enable real-time activity prediction.
 
 ---
@@ -102,6 +102,11 @@ The models are evaluated using:
 
 ---
 
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/489fc22d-2ac4-495a-9baf-ce82e741dc85" />
+
+## App link
+
+https://lxp2knweygfnfirmvfrnt5.streamlit.app/
 
 ## Model Saving
 
@@ -149,3 +154,7 @@ Prediction Output:
     - Standing
     - Upstairs
     - Downstairs
+
+## Author
+
+Dhilip K
