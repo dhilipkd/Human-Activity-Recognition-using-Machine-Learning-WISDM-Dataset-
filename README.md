@@ -140,20 +140,26 @@ Model Inference
 ## Results
 
 Displays:
-
-  - Best Model Name
-  - Best Weighted F1 Score
-  - Model comparison summary
-
-Prediction Output:
-
-  Predicted Activity Name 
     - Walking
     - Jogging
     - Sitting
     - Standing
     - Upstairs
     - Downstairs
+  - Best Model Name
+  - Best Weighted F1 Score
+  - Model comparison summary
+
+Prediction Output:
+
+Predicted Activity Name 
+
+  - Walking
+  - Jogging
+  - Sitting
+  - Standing
+  - Upstairs
+  - Downstairs
 
 ## Author
 
